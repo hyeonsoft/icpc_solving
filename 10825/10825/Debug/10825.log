@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\전병현\documents\development\icpc\10825\10825\소스.cpp(68): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\전병현\documents\development\icpc\10825\10825\소스.cpp(55): warning C4715: 'cmp': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  10825.vcxproj -> C:\Users\전병현\Documents\development\icpc\10825\Debug\10825.exe

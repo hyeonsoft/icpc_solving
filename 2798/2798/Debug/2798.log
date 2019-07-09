@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\전병현\documents\development\2798\2798\소스.cpp(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\전병현\documents\development\2798\2798\소스.cpp(21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\전병현\documents\development\2798\2798\소스.cpp(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2798.vcxproj -> C:\Users\전병현\Documents\development\2798\Debug\2798.exe
