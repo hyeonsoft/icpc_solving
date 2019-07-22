@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\전병현\documents\development\icpc\12018\12018\소스.cpp(17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\전병현\documents\development\icpc\12018\12018\소스.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  12018.vcxproj -> C:\Users\전병현\Documents\development\icpc\12018\Debug\12018.exe

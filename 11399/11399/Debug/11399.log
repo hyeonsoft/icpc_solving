@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\전병현\documents\development\icpc\11399\11399\소스.cpp(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  11399.vcxproj -> C:\Users\전병현\Documents\development\icpc\11399\Debug\11399.exe
