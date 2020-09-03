@@ -1,0 +1,5 @@
+﻿  14607.cpp
+c:\users\전병현\documents\development\icpc\14607\14607\14607.cpp(11): warning C4244: '인수': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\전병현\documents\development\icpc\14607\14607\14607.cpp(13): warning C4244: '인수': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\전병현\documents\development\icpc\14607\14607\14607.cpp(17): warning C4244: '인수': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  14607.vcxproj -> C:\Users\전병현\Documents\development\icpc\14607\Debug\14607.exe
